@@ -5,3 +5,4 @@ https://feeds.soundcloud.com/users/soundcloud:users:893761831/sounds.rss
 https://www.patreon.com/rss/transregretsnoopy?auth=kPKFmqlUI0ns7cwLl3aviNFrbYt7EsAL
 https://feed.podbean.com/trashfuturepodcast/feed.xml
 https://feed.podbean.com/wtyppod/feed.xml
+https://podcasts.apple.com/us/podcast/the-bible-for-normal-people/id1215420422?uo=4
