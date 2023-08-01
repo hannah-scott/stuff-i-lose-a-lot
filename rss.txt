@@ -1,12 +1,26 @@
-https://100r.co/links/rss.xml
-https://begriffs.com/atom.xml
-https://blog.passtheballsocrates.com/feed/
-https://cyberia.club/blog/blog.xml
-https://davebucklin.com/feed.xml
-https://facklambda.dev/atom.xml
-https://herman.bearblog.dev/feed/
-https://icyphox.sh/blog/feed.xml
-https://j3s.sh/feed.atom
-https://katherine.cox-buday.com/rss.xml
-https://pluralistic.net/feed/
-https://sequentialread.com/rss
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1">
+  <head>
+    <title>
+      Feeder
+    </title>
+  </head>
+  <body>
+    <outline title="Three Good Things" text="Three Good Things" type="rss" xmlUrl="https://hd-dn.com/three-good-things/atom.atom"/>
+    <outline title="LOW←TECH MAGAZINE English" text="LOW←TECH MAGAZINE English" type="rss" xmlUrl="https://solar.lowtechmagazine.com/posts/index.xml"/>
+    <outline title="SequentialRead" text="SequentialRead" type="rss" xmlUrl="https://sequentialread.com/rss"/>
+    <outline title="Pluralistic: Daily links from Cory Doctorow" text="Pluralistic: Daily links from Cory Doctorow" type="rss" xmlUrl="https://pluralistic.net/feed/"/>
+    <outline title="Katherine Cox-Buday" text="Katherine Cox-Buday" type="rss" xmlUrl="https://katherine.cox-buday.com/rss.xml"/>
+    <outline title="Kang" text="Kang" type="rss" xmlUrl="https://kangminsuk.com/rss/"/>
+    <outline title="j3s.sh" text="j3s.sh" type="rss" xmlUrl="https://j3s.sh/feed.atom"/>
+    <outline title="ᕕ( ᐛ )ᕗ Herman&apos;s blog" text="ᕕ( ᐛ )ᕗ Herman&apos;s blog" type="rss" xmlUrl="https://herman.bearblog.dev/feed/"/>
+    <outline title="Dave Bucklin" text="Dave Bucklin" type="rss" xmlUrl="https://davebucklin.com/feed.xml"/>
+    <outline title="FackLambda" text="FackLambda" type="rss" xmlUrl="https://facklambda.dev/atom.xml"/>
+    <outline title="Cyberia Blog" text="Cyberia Blog" type="rss" xmlUrl="https://cyberia.club/blog/blog.xml"/>
+    <outline title="Computer Things" text="Computer Things" type="rss" xmlUrl="https://buttondown.email/hillelwayne/rss"/>
+    <outline title="Pass The Ball Socrates" text="Pass The Ball Socrates" type="rss" xmlUrl="https://blog.passtheballsocrates.com/feed/"/>
+    <outline title="begriffs.com" text="begriffs.com" type="rss" xmlUrl="https://begriffs.com/atom.xml"/>
+    <outline title="Hundred Rabbits" text="Hundred Rabbits" type="rss" xmlUrl="https://100r.co/links/rss.xml"/>
+    <outline title="Drew DeVault&apos;s blog" text="Drew DeVault&apos;s blog" type="rss" xmlUrl="https://drewdevault.com/blog/index.xml"/>
+  </body>
+</opml>
